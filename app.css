@@ -10,7 +10,7 @@ body {
 }
 
 .card {
-  margin-top: 200px;
+  margin-top: 150px;
   background-color: hsl(0, 0%, 100%);
   box-shadow: 10px 11px 34px 3px rgba(0, 0, 0, 0.31);
   padding: 10px 10px 25px 10px;
