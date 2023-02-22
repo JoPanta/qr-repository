@@ -21,7 +21,7 @@ body {
   width: 20em;
   text-align: center;
   display: flex;
-  flex-direction: column;
+  flex-flow: column nowrapa;
 
 }
 
