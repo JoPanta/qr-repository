@@ -15,9 +15,9 @@ body {
   box-shadow: 10px 11px 34px 3px rgba(0, 0, 0, 0.31);
   padding: 10px 10px 25px 10px;
   border-radius: 20px;
-  height: 450px;
-  width: 310px;
-  height: 30em;
+  /* height: 450px;
+  width: 310px; */
+  height: 32em;
   width: 20em;
   text-align: center;
   display: flex;
